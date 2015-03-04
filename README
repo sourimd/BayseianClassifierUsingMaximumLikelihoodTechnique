@@ -1,0 +1,8 @@
+Designed and implemented a 4D Pattern Recognition Classifier- Baysian Classifier using Maximum Likelihood Technique.
+Since its a Baysian Classifier, parameters used are only Mean and Covariance. These parameters are determined from a
+training set of known classes(train_sp2015_v14). After that the classifiers are tested using a test set(test_sp2015_v14).
+The probability of error using this classifier is given by, P(Error) = 0.17.
+
+The result of the classification on the test data can be found in the Classification file included within this 
+directory. I have also included a report on the project in this directory. For a more in-depth discussion please 
+check out Report.doc file
